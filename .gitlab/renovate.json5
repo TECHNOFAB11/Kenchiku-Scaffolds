@@ -17,6 +17,7 @@
   "postUpgradeTasks": {
     "commands": [
       "nix-portable nix run .#soonix:update"
-    ]
+    ],
+    "executionMode": "branch"
   }
 }

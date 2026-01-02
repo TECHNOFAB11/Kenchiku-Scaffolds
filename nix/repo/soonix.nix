@@ -13,7 +13,7 @@ in
         data = {
           "$schema" = "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json";
           workspace.library = [
-            "${kenchiku.packages.default}/share/kenchiku/schema.lua"
+            kenchiku.packages.lua-schema
           ];
         };
         hook.mode = "copy";

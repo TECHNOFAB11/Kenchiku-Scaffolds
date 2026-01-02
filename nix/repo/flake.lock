@@ -40,11 +40,11 @@
         "ren": "ren"
       },
       "locked": {
-        "lastModified": 1766164252,
-        "narHash": "sha256-0URC2bYG0T48R9n8Br/qHC3QOCmJuEUvLtKQjHVox8o=",
+        "lastModified": 1767360024,
+        "narHash": "sha256-FxdhnTlQPLiBI2dzgjBsXLW9OMkREjSYtBtbZoe5aw8=",
         "owner": "TECHNOFAB",
         "repo": "kenchiku",
-        "rev": "91bd6346506acb7a05eff88e6567e18257167ea9",
+        "rev": "106465c6a1ad0aed08b6ae1bbb7ef9b99d8395be",
         "type": "gitlab"
       },
       "original": {
